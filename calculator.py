@@ -10,5 +10,3 @@ def multiply(a,b):
 
 def divide_new(a, b):
   return a/b
-
-#주석
